@@ -1,0 +1,4 @@
+Coke,150,7,
+Lemonade,130,14,
+Sprite,110,8,
+Radler, 230,8,
